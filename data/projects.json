@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "tag": "AI / LLM",
+    "title": "Swasth-AI — Health Management Platform",
+    "description": "An AI-integrated health platform built on the MERN stack with secure JWT authentication and Gemini API-powered health features.",
+    "tags": ["Node.js", "Express.js", "MongoDB", "Gemini"],
+    "image": "/assets/images/swasth-ai.jpg",
+    "github": "https://github.com/raghvendra-coder",
+    "demo": "#"
+  },
+  {
+    "id": 2,
+    "tag": "BACKEND / REST API",
+    "title": "Career Bridge — Job & Internship Portal",
+    "description": "A secure REST API built with Node.js, Express.js, and MongoDB, featuring JWT authentication, RBAC, job/internship management, resume uploads, applications, and Swagger documentation.",
+    "tags": ["Node.js", "Express.js", "MongoDB", "JWT", "Mongoose", "Swagger"],
+    "image": "/assets/images/career-bridge.jpg",
+    "github": "https://github.com/raghvendra-coder",
+    "demo": "#"
+  },
+  {
+    "id": 3,
+    "tag": "AI · NETWORKING · RESPONSIBLE AI",
+    "title": "NetSage AI — Cisco Network Troubleshooting Assistant",
+    "description": "An AI-powered network troubleshooting assistant that analyzes network symptoms, topology, and Cisco CLI outputs to identify root causes, OSI layers, evidence, and recommended troubleshooting steps — with mandatory human review before accepting a fix.",
+    "tags": ["Python", "AI / LLM", "Prompt Engineering", "Cisco Networking", "JSON", "Responsible AI"],
+    "image": "/assets/images/netsage-ai.jpg",
+    "github": "https://github.com/raghvendra-coder",
+    "demo": "#"
+  },
+  {
+    "id": 4,
+    "tag": "E-COMMERCE",
+    "title": "E-Commerce Website",
+    "description": "A full-stack e-commerce web app with product listings, cart functionality, and MongoDB-backed CRUD APIs for inventory management.",
+    "tags": ["React", "Node.js", "MongoDB"],
+    "image": "/assets/images/ecommerce.jpg",
+    "github": "https://github.com/raghvendra-coder",
+    "demo": "#"
+  }
+]
